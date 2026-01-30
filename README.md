@@ -45,7 +45,7 @@ Bank-System/
 ## How to Run
 Option 1: Using Command Line (Recommended)
   # Clone the repository
-  git clone [https://github.com/YourUsername/Bank-System.git](https://github.com/mostafamhmed117-alt/Bank_System.git)
+  git clone [https://github.com/YourUsername/Bank-System.git](https://github.com/mostafamhmed117-alt/Bank__System.git)
   
   # Navigate to the project directory
   cd Bank_System
